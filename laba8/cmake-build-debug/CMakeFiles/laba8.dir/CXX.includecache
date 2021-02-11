@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Public/CLionProjects/proga/sem2/laba8/dec.cpp
+dec.h
+C:/Users/Public/CLionProjects/proga/sem2/laba8/dec.h
+
+C:/Users/Public/CLionProjects/proga/sem2/laba8/dec.h
+cstdlib
+-
+iostream
+-
+fstream
+-
+
+C:/Users/Public/CLionProjects/proga/sem2/laba8/main.cpp
+iostream
+-
+dec.h
+C:/Users/Public/CLionProjects/proga/sem2/laba8/dec.h
+
+C:/Users/Public/CLionProjects/proga/sem2/laba8/solver.cpp
+dec.h
+C:/Users/Public/CLionProjects/proga/sem2/laba8/dec.h
+

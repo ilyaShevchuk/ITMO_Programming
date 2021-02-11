@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Public/CLionProjects/proga/sem2/laba6/functions.cpp
+functions.h
+C:/Users/Public/CLionProjects/proga/sem2/laba6/functions.h
+cmath
+-
+
+C:/Users/Public/CLionProjects/proga/sem2/laba6/functions.h
+
+C:/Users/Public/CLionProjects/proga/sem2/laba6/main.cpp
+iostream
+-
+vector
+-
+functions.cpp
+C:/Users/Public/CLionProjects/proga/sem2/laba6/functions.cpp
+
